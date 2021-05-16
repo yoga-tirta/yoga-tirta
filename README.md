@@ -13,14 +13,9 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Learn-PHP-informational?style=flat&logo=php&logoColor=white&color=7045af)
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0077ff)
-![](https://img.shields.io/badge/Bootstrap-Expert-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/HTML-Expert-orange)
-![](https://img.shields.io/badge/CSS-Expert-blue)
-![](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![](https://img.shields.io/badge/Bootstrap-Expert-informational?style=flat&logo=bootstrap&logoColor=white&color=39065a)
+![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=182952)
+![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
 ## &#x1f4c8; GitHub Stats
 
