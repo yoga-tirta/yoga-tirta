@@ -22,7 +22,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer. I'm from Indonesia an
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=27&count_private=true&title_color=c9cacc&text_color=dddddd&icon_color=2b87bc&bg_color=596475" alt="Yoga Tirta's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=50&count_private=true&title_color=c9cacc&text_color=ffffff&icon_color=2b87bc&bg_color=596475" alt="Yoga Tirta's GitHub Stats" />
 
 <!-- links to social media icons -->
 
