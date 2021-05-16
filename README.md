@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> </h1>
 
-<p> My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1]][2] </p>
+My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1]][2]
 
 <h2> &#x1f4c8; My Tools And Stats </h2>
 
@@ -18,4 +18,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="Yoga Tirta's GitHub Stats" />
 
 [1]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
-[2]: https://twitter.com/Martin_Heinz_
+[2]: https://twitter.com/yogatirtap_
