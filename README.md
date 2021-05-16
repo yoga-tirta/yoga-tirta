@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# <center> Hi, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> <center>
+# <h1 align="center"> Hi, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> <h1>
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1.2]][1]
 
