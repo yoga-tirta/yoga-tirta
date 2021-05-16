@@ -2,7 +2,7 @@
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1]][2]
 
-## 🔧 My Tools And Stats &#x1f4c8;
+## 🔧 My Tools and Stats &#x1f4c8;
 
 ![](https://img.shields.io/badge/Learn-Python-informational?style=flat&logo=python&logoColor=white&color=ffd700)
 ![](https://img.shields.io/badge/Learn-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff4d00)
@@ -15,8 +15,10 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=22267b)
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
-<a href="https://github.com/Yogatxt552/Yogatxt552">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="This is my GitHub stats" />
+
+
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 [1]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
