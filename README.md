@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> </h1>
 
-<h4>My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1.2]][1] </h4>
+My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1.2]][1]
 
 ## &#x1f4c8; My Tools And Stats
 
