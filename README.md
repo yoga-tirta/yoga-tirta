@@ -2,6 +2,7 @@
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1]][2]
 
+
 <h2> 🔧 My Tools and Stats &#x1f4c8;</h2>
 
 ![](https://img.shields.io/badge/Learn-Python-informational?style=flat&logo=python&logoColor=white&color=ffd700)
@@ -15,9 +16,10 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=22267b)
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
+
 <a href="https://github.com/Yogatxt552/Yogatxt552">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="Yoga Tirta's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" />
 </a>
 
-[1]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[1]: http://i.imgur.com/wWzX9uB.png
 [2]: https://twitter.com/yogatirtap_
