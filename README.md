@@ -6,7 +6,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer. I'm from Indonesia an
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational??style=flat-square&logo=appveyor)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=appveyor)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -19,7 +19,6 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer. I'm from Indonesia an
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
 ![](https://img.shields.io/badge/HTML-Expert-orange)
 ![](https://img.shields.io/badge/CSS-Expert-blue)
 ![](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
