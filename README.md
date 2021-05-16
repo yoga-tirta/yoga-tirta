@@ -20,6 +20,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer. I'm from Indonesia an
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/HTML-Expert-orange)
 ![](https://img.shields.io/badge/CSS-Expert-blue)
 ![](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
