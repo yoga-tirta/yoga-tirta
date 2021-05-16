@@ -4,7 +4,7 @@
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1.2]][1]
 
-## 🔧 Technologies & Tools
+## &#x1f4c8; GitHub Tools And Stats
 
 ![](https://img.shields.io/badge/Learn-Python-informational?style=flat&logo=python&logoColor=white&color=ffd700)
 ![](https://img.shields.io/badge/Learn-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ff4d00)
@@ -16,8 +16,6 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Bootstrap-Expert-informational?style=flat&logo=bootstrap&logoColor=white&color=39065a)
 ![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=182952)
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
-
-## &#x1f4c8; GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=c9cacc&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="Yoga Tirta's GitHub Stats" />
 
