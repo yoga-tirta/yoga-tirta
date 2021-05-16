@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-# Hi, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px">
+# <center> Hi, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> <center>
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1.2]][1]
 
@@ -17,7 +17,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=182952)
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=c9cacc&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="Yoga Tirta's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" alt="Yoga Tirta's GitHub Stats" />
 
 <!-- links to social media icons -->
 
