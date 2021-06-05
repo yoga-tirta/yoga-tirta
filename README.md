@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, there ! <img src="https://raw.githubusercontent.com/Yogatxt552/Yogatxt552/master/wave.gif" width="30px"> </h1>
+<h1 align="center"> Hello, there ! <img src="https://raw.githubusercontent.com/yoga-tirta/yoga-tirta/master/wave.gif" width="30px"> </h1>
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently studying in Informatics Engineering at Trunojoyo University. You can find and connect with me on Twitter [![1]][2]
 
@@ -17,8 +17,8 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
 
-<a href="https://github.com/Yogatxt552/Yogatxt552">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yogatxt552&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" />
+<a href="https://github.com/yoga-tirta?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" />
 </a>
 
 [1]: http://i.imgur.com/wWzX9uB.png
