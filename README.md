@@ -20,7 +20,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 </a>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&line_height=27"/>
 </a>
 
 [1]: https://twitter.com/yogatirtap_
