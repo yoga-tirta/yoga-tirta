@@ -16,7 +16,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&title_color=0077ff&text_color=000000&icon_color=0077ff&bg_color=dbf6e9&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&title_color=0077ff&text_color=000000&icon_color=521477&bg_color=dbf6e9&langs_count=3" />
 </a>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
