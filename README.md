@@ -10,14 +10,14 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Learn-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f6c90e)
 ![](https://img.shields.io/badge/Learn-PHP-informational?style=flat&logo=php&logoColor=white&color=7045af)
 
-<a href="https://github.com/yoga-tirta/yoga-tirta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252&langs_count=3" />
-</a>
-
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0077ff)
 ![](https://img.shields.io/badge/Bootstrap-Expert-informational?style=flat&logo=bootstrap&logoColor=white&color=521477)
 ![](https://img.shields.io/badge/jQuery-Intermediate-informational?style=flat&logo=jquery&logoColor=white&color=22267b)
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
+
+<a href="https://github.com/yoga-tirta/yoga-tirta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252&langs_count=3" />
+</a>
 
 <a href="https://github.com/yoga-tirta/yoga-tirta">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&line_height=30&count_private=true&title_color=dddddd&text_color=ffffff&icon_color=0077ff&bg_color=525252" />
