@@ -16,19 +16,14 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 ![](https://img.shields.io/badge/Codeigniter-Beginner-informational?style=flat&logo=codeigniter&logoColor=white&color=ff6c00)
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&title_color=1f441e&text_color=ffffff&bg_color=a7bbc7&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta" />
 </a>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&line_height=27&count_private=true&title_color=1f441e&text_color=ffffff&icon_color=1f441e&bg_color=a7bbc7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true"/>
 </a>
-
-<!-- icons -->
-
-[1.1]: http://i.imgur.com/wWzX9uB.png
-[2.1]: https://raw.githubusercontent.com/yoga-tirta/yoga-tirta/master/linkedin-3-16.png
-
-<!-- link -->
 
 [1]: https://twitter.com/yogatirtap_
 [2]: https://www.linkedin.com/in/yoga-tirta-6707721b0/
+[1.1]: http://i.imgur.com/wWzX9uB.png
+[2.1]: https://raw.githubusercontent.com/yoga-tirta/yoga-tirta/master/linkedin-3-16.png
