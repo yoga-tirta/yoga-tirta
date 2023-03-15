@@ -1,14 +1,11 @@
-<h1 align="center"> Hello, there! </h1>
-<div align="center">
+<div align="center" width="50">
+<h1> Hello, there! </h1>
+
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q)
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
 </div>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/yogatirta) <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ofkg7oqoqcgrx2nq4nnpnjbc2q&count=1))](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) 
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=b14e4e&bar_color_cover=true)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) 
-
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering. You can find and connect with me on Twitter[![Twitter][1.1]][1], or on LinkedIn[![LinkedIn][2.1]][2].
 
