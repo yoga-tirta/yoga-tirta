@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, there! </h1>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering. You can find and connect with me on Twitter[![Twitter][1.1]][1], or on LinkedIn[![LinkedIn][2.1]][2].
 
