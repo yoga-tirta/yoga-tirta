@@ -3,13 +3,9 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>
 
-<div align="center">
-<img src="https://tenor.com/view/this-is-worthless-gravity-falls-dipper-pines-worthless-gif-25136060" align="center" style="width: 80%" />
-</div>
-
-<div align="center">
-<img src="https://tenor.com/search/this+is+worthless-gifs" align="center" style="width: 80%" />
-</div>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/yogatirta) <br>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31ofkg7oqoqcgrx2nq4nnpnjbc2q&count=1))](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) <br>
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering. You can find and connect with me on Twitter[![Twitter][1.1]][1], or on LinkedIn[![LinkedIn][2.1]][2].
 
