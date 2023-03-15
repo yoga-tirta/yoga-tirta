@@ -15,9 +15,7 @@
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
 
-<h2> 🔧 My Tools and Stats &#x1f4c8;</h2>
-
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h2 align="left">🔧 Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -55,3 +53,4 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 [![Instagram Badge](https://img.shields.io/badge/-@hi.yogatirta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/hi.yogatirta/)](https://www.instagram.com/hi.yogatirta/)
 [![Linkedin Badge](https://img.shields.io/badge/-My&nbsp;Website-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://yoga-tirta.github.io/)](https://yoga-tirta.github.io/)
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
