@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
 </div>
+<div class="tenor-gif-embed" data-postid="25136060" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/this-is-worthless-gravity-falls-dipper-pines-worthless-gif-25136060">This Is Worthless Gravity Falls GIF</a>from <a href="https://tenor.com/search/this+is+worthless-gifs">This Is Worthless GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering. You can find and connect with me on Twitter[![Twitter][1.1]][1], or on LinkedIn[![LinkedIn][2.1]][2].
 
 <h2> 🔧 My Tools and Stats &#x1f4c8;</h2>
