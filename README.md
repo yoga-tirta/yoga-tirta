@@ -19,7 +19,8 @@
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
 
-<h2 align="left">🔧 Technologies and Tools I use:</h2>
+<!-- languages tools -->
+<h2>🔧 Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -42,10 +43,10 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 <h2>📊 My Github Stats</h2>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&count_private=true&show_icons=true&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/yoga-tirta?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&layout=compact&theme=react&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&layout=compact&theme=react&langs_count=8" />
 </a>
 
 <!-- social -->
@@ -58,6 +59,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 [![Linkedin Badge](https://img.shields.io/badge/-My Website-blueviolet?style=flat-square =appveyor =white =https://yoga-tirta.github.io/)](https://yoga-tirta.github.io/)
 
 <div align="center">
-<a href="https://yoga-tirta.github.io">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/></a><br>
+    <a href="https://yoga-tirta.github.io">
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
+    </a><br>
 </div>
