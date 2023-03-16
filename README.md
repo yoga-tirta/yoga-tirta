@@ -42,10 +42,10 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 <h2>📊 My Github Stats</h2>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&count_private=true&show_icons=true&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/yoga-tirta?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&layout=compact&theme=react&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&layout=compact&theme=react&langs_count=8" />
 </a>
 
 <!-- social -->
@@ -57,6 +57,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 [![Instagram Badge](https://img.shields.io/badge/-@hi.yogatirta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/hi.yogatirta/)](https://www.instagram.com/hi.yogatirta/)
 [![Linkedin Badge](https://img.shields.io/badge/-My Website-blueviolet?style=flat-square =appveyor =white =https://yoga-tirta.github.io/)](https://yoga-tirta.github.io/)
 
+<div align="center">
 <a href="https://yoga-tirta.github.io">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/><br>
-</a>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/></a><br>
+</div>
