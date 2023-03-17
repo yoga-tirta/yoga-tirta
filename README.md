@@ -1,20 +1,23 @@
-
-    
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
 </a>
-<div align="left">
+<div align="left"> -->
+    
+<div align="center">
   
 ### Vibing to : 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) <br>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
+</a>
 
 ### Visitor's count 👀
-<p><img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" /></p>
-    
-</div>
+<a href="https://yoga-tirta.github.io">
+  <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
+</a>
 
-<hr></hr>
+</div><hr/>
 
 <div align="center">
   <h1>Hi, I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
