@@ -56,10 +56,10 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 </p>
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
-    <img alt="Yoga Tirta's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/>
+    <img alt="Yoga Tirta's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180px"/>
 </a>
 <a href="https://github.com/Firgisotya">
-    <img alt="Yoga Tirta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/>
+    <img alt="Yoga Tirta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
 </a>
   <br/>
 </a>
