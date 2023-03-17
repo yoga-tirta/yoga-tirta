@@ -11,10 +11,10 @@
 
 <hr></hr>
 
-<h1 align="center">Hi , I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Music+and+Movies+is+my+Stereo;Web+Developer+||+Informatics+Engineering;Enthusiastic+to+learn+new+things&center=true&width=500&height=50"></a>
-</p>
+<div align="center">
+<h1>Hi, I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Music+and+Movies+is+my+Stereo;Web+Developer+||+Informatics+Engineering;Enthusiastic+to+learn+new+things&center=true&width=500&height=50"></a></p>
+</div>
 
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
 
