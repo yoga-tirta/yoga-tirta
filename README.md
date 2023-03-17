@@ -19,7 +19,8 @@
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
 
 <!-- languages tools -->
-<h2>🔧 Technologies and Tools I use:</h2>
+## 🔧 Technologies and Tools I use:
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -39,13 +40,28 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 </p>
 
 <!-- stats -->
-<h2>📊 My Github Stats</h2>
+## 📊 Github Stats
 
 <a href="https://github.com/yoga-tirta?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api?username=yoga-tirta&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/yoga-tirta?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&layout=compact&theme=react&langs_count=8" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/yoga-tirta?tab=repositories">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-tirta&theme=tokyonight&hide_border=true" alt="Yoga Tirta's GitHub streak"/>
+  </a>
+</p>
+
+<a href="https://github.com/yoga-tirta?tab=repositories">
+    <img alt="Yoga Tirta's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/>
+</a>
+<a href="https://github.com/Firgisotya">
+    <img alt="Yoga Tirta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="192px" width="49.5%"/>
+</a>
+  <br/>
 </a>
 
 <!-- social -->
