@@ -1,19 +1,13 @@
-<div align="center">
-    <h1> Hello, there! :wave:</h1>
-</div>
+<div align="center"> <h1> Hello, there! :wave:</h1> </div>
 
-<a href="https://github.com/yoga-tirta">
-    <img src="https://komarev.com/ghpvc/?username=yoga-tirta&&style=flat-square" align="center" />
-</a>
+<a href="https://github.com/yoga-tirta"> <img src="https://komarev.com/ghpvc/?username=yoga-tirta&&style=flat-square" align="center" /> </a>
 
 <div align="center">
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" /> -->
 
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) <br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="290" height="auto" />
-</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="290" height="auto" /> </a>
 
 </div>
 
