@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
   
 ### Vibing to : 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) <br>
@@ -12,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
 </a>
 
-</div><hr/> -->
+</div><hr/>
 
 <div align="center">
   <h1>Hi, I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -22,9 +22,9 @@
 My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
 
 <!-- languages tools -->
-## 🔧 Technologies and Tools I use:
+## 🛠 Languages and Tools I use
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
@@ -40,6 +40,20 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
   <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
   <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+</p>
+
+<!-- social -->
+## ❤️ Reach me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yoga-tirta-6707721b0/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yogatirtap_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.instagram.com/hi.yogatirta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/yogatirtapermana552"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://api.whatsapp.com/send/?phone=6285158925522&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:yogatirtapermana552@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://yoga-tirta.github.io/"><img src="https://img.shields.io/badge/Website-ff9900?style=for-the-badge&logo=GoogleChrome&logoColor=white" /> </a>
+<!--   <a href="https://github.com/yoga-tirta"><img src="https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> -->
 </p>
 
 <!-- stats -->
@@ -60,20 +74,4 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
   </a>
 </p>
 
-[![Yoga Tirta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yoga-tirta&theme=tokyo-night)](https://github.com/yoga-tirta?tab=repositories)
-
-
-<!-- social -->
-## ❤️ Let's get connected
-
-[![Linkedin Badge](https://img.shields.io/badge/-Yoga Tirta-blue?style=flat-square =Linkedin =white =https://www.linkedin.com/in/yoga-tirta-6707721b0/)](https://www.linkedin.com/in/yoga-tirta-6707721b0/)
-[![Twitter Badge](https://img.shields.io/badge/-@yogatirtap_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yogatirtap_)](https://twitter.com/yogatirtap_)
-[![Facebook Badge](https://img.shields.io/badge/-Yoga Tirta Permana-3b5998?style=flat-square =3b5998 =facebook =white =https://www.facebook.com/yogatirtapermana552)](https://www.facebook.com/yogatirtapermana552)
-[![Instagram Badge](https://img.shields.io/badge/-@hi.yogatirta-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/hi.yogatirta/)](https://www.instagram.com/hi.yogatirta/)
-[![Linkedin Badge](https://img.shields.io/badge/-My Website-blueviolet?style=flat-square =appveyor =white =https://yoga-tirta.github.io/)](https://yoga-tirta.github.io/)
-
-<div align="center">
-  <a href="https://yoga-tirta.github.io">
-     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
-  </a><br>
-</div>
+<!-- [![Yoga Tirta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yoga-tirta&theme=tokyo-night)](https://github.com/yoga-tirta?tab=repositories) -->
