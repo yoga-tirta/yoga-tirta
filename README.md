@@ -70,7 +70,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 [![Linkedin Badge](https://img.shields.io/badge/-My Website-blueviolet?style=flat-square =appveyor =white =https://yoga-tirta.github.io/)](https://yoga-tirta.github.io/)
 
 <div align="center">
-    <a href="https://yoga-tirta.github.io">
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
-    </a><br>
+  <a href="https://yoga-tirta.github.io">
+     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" width="75%"/>
+  </a><br>
 </div>
