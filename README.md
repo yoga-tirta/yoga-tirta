@@ -1,9 +1,4 @@
-<!-- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img align="right" src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
-</a>
-<div align="left"> -->
-    
-<div align="center">
+<!-- <div align="center">
   
 ### Vibing to : 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q) <br>
@@ -17,7 +12,7 @@
   <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
 </a>
 
-</div><hr/>
+</div><hr/> -->
 
 <div align="center">
   <h1>Hi, I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -60,7 +55,7 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
   <a href="https://github.com/yoga-tirta?tab=repositories">
     <img alt="Yoga Tirta's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yoga-tirta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170px"/>
   </a>
-  <a href="https://github.com/Firgisotya">
+  <a href="https://github.com/yoga-tirta?tab=repositories">
     <img alt="Yoga Tirta's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yoga-tirta&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
   </a>
 </p>
