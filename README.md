@@ -1,25 +1,14 @@
 <div align="center">
-  
-### Vibing to : 🎧
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q)
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
-</a>
-
-### Visitor's count 👀
-<a href="https://yoga-tirta.github.io">
-  <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
-</a>
-
-</div><hr/>
-
-<div align="center">
   <h1>Hi, I'm Yoga Tirta Permana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Music+and+Movies+is+my+Stereo;Web+Developer+||+Informatics+Engineering;Enthusiastic+to+learn+new+things&center=true&width=500&height=50"></a></p>
+  <p><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer+||+Designer+||+Tech+Enthusiast;Love+to+Learn+a+lot+of+Things;Music+and+Movies+is+my+Stereo&center=true&width=500&height=50"></a></p>
 </div>
 
-My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lot of things. I'm from Indonesia and currently study at Informatics Engineering.
+- 🏫 I'm a student of Trunojoyo University in Informatics Engineering.
+- 🌱 I’m currently learning Node.Js and React.Js.
+- 😄 I like exploring about Machine Learning.
+- 👉 I’m looking for help with anything I am currently learning! 
+- 💬 Ask me about Python, Php, and any pop culture😅
+- ⚡ Fun fact: I play games and watch movies when bored.
 
 <!-- languages tools -->
 ## 🛠 My Skills
@@ -78,3 +67,19 @@ My name is Yoga Tirta Permana and I'm a Junior Programmer who love to learn a lo
 </p>
 
 <!-- [![Yoga Tirta's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yoga-tirta&theme=tokyo-night)](https://github.com/yoga-tirta?tab=repositories) -->
+<hr/>
+<div align="center">
+  
+### Vibing to : 🎧
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q)
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
+</a>
+
+### Visitor's count 👀
+<a href="https://yoga-tirta.github.io">
+  <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
+</a>
+
+</div>
