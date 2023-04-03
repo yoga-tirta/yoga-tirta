@@ -43,9 +43,12 @@
   <a href="https://www.instagram.com/hi.yogatirta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.facebook.com/yogatirtapermana552"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send/?phone=6285158925522&text&type=phone_number&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://t.me/yogatirta"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yogatirtapermana552@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://yoga-tirta.github.io/"><img src="https://img.shields.io/badge/Website-ff9900?style=for-the-badge&logo=GoogleChrome&logoColor=white" /> </a>
 <!--   <a href="https://github.com/yoga-tirta"><img src="https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> -->
+</p>
+<p align="center">
+  <a href="https://yoga-tirta.github.io/"><img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" /> </a>
 </p>
 
 <!-- stats -->
