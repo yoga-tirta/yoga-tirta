@@ -6,9 +6,9 @@
 - 🏫 I'm a student of Trunojoyo University in Informatics Engineering.
 - 🌱 I’m currently learning Node.Js and React.Js.
 - 😄 I like exploring about Machine Learning.
-- 👉 I’m looking for help with anything I am currently learning! 
-- 💬 Ask me about Python, Php, and any pop culture😅
-- ⚡ Fun fact: I play games and watch movies when bored.
+- 👉 I’m looking for help with anything I am currently learning!
+- 💬 Ask me about Python, PHP, and any pop culture😅
+- ⚡ Fun fact: I play games and watch movies when I'm bored.
 
 <!-- languages tools -->
 ## 🛠 My Skills
