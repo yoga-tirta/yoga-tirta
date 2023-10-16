@@ -76,6 +76,8 @@
 ### Vibing to : 🎧
 [![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31ofkg7oqoqcgrx2nq4nnpnjbc2q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31ofkg7oqoqcgrx2nq4nnpnjbc2q)
 
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31hrcav3z3lodlhunlnay7ml4ydy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31hrcav3z3lodlhunlnay7ml4ydy)
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
 </a>
