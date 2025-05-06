@@ -81,12 +81,16 @@
 </a>   -->
 
 ### Visitor's count 👀
-<a href="https://yoga-tirta.github.io">
-  <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
-</a>
+<p align="center">
+  <a href="https://yoga-tirta.github.io">
+    <img src="https://profile-counter.glitch.me/{yoga-tirta}/count.svg" alt="yoga-tirta :: Visitor's Count" />
+  </a>
+</p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="300" height="auto" />
+  </a>
+</p>
 
 </div>
